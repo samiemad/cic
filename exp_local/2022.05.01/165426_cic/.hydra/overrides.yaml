@@ -1,0 +1,5 @@
+- agent=cic
+- experiment=YOUR_EXP_NAME
+- task=walker_stand
+- snapshot_ts=2000000
+- agent=cic
